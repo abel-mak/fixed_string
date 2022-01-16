@@ -1,1 +1,0 @@
-[[nodiscard]] constexpr size_type find(const value_type* s, size_type pos = 0) const;

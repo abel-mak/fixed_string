@@ -1,1 +1,0 @@
-[[nodiscard]] constexpr size_type find(value_type c, size_type pos = 0) const noexcept;
